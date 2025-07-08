@@ -4,15 +4,9 @@ A modern Pokédex web application built with **React.js** that fetches real-time
 
 ---
 
-## 🔗 Live Demo
-
-[🔍 View Pokedex Live](https://your-live-demo-link.com)
-
----
-
 ## 📸 Screenshots
 
-s![image](https://github.com/user-attachments/assets/fcd01f14-26c6-4bd3-8d6f-b495b8806462)
+Screen Shot![image](https://github.com/user-attachments/assets/fcd01f14-26c6-4bd3-8d6f-b495b8806462)
 
 ---
 
