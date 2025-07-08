@@ -6,7 +6,7 @@ A modern Pokédex web application built with **React.js** that fetches real-time
 
 ## 📸 Screenshots
 
-Screen Shot![image](https://github.com/user-attachments/assets/fcd01f14-26c6-4bd3-8d6f-b495b8806462)
+![image](https://github.com/user-attachments/assets/fcd01f14-26c6-4bd3-8d6f-b495b8806462)
 
 ---
 
